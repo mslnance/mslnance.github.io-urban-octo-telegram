@@ -1,7 +1,6 @@
 # Code Refactor Starter Code
 
 ## Description 
-
 This project is related to an on-the-job ticket created by Horiseon, a marketing agency.
 
 ### Overview: 
@@ -19,9 +18,6 @@ Provide a codebase that follows accessibility standards so that Horiseon's site 
 ## Screenshots
 ![Screenshot](/assets/images/Screenshot.png?raw=true "Screenshot")
 
-## Link to URL
+## Link to deployed application
 https://mslnance.github.io/mslnance.github.io-urban-octo-telegram/
-
-## Link to Repository
-https://github.com/mslnance/mslnance.github.io-urban-octo-telegram
 
