@@ -17,7 +17,7 @@ Provide a codebase that follows accessibility standards so that Horiseon's site 
 -When view the title element, the user must find a concise, descriptive title
 
 ## Screenshots
-![Screenshot](/assets/images/Screenshot.JPG?raw=true "Screenshot")
+![Screenshot](/assets/images/Screenshot.png?raw=true "Screenshot")
 
 ## Link to URL
 https://mslnance.github.io/mslnance.github.io-urban-octo-telegram/
