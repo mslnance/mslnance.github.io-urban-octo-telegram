@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-* [Description](#desc)
-** [Overview](#overview)
-** [Requirements](#requirements)
-* [Screenshots](#screenshots)
-* [Link to Deployed Application](#ltda)
++ [Description](#desc)
+* [Overview](#overview)
+* [Requirements](#requirements)
++ [Screenshots](#screenshots)
++ [Link to Deployed Application](#ltda)
 
 <a name="desc"></a>
 ## Description 
@@ -25,11 +25,11 @@ Provide a codebase that follows accessibility standards so that Horiseon's site 
 * When viewing the heading attributes, they must fall in sequential order
 * When view the title element, the user must find a concise, descriptive title
 
-<a name="screenshots">
+<a name="screenshots"></a>
 ## Screenshots
 ![Screenshot](/assets/images/Screenshot.png?raw=true "Screenshot")
 
-<a name="ltda">
+<a name="ltda"></a>
 ## Link to deployed application
 https://mslnance.github.io/mslnance.github.io-urban-octo-telegram/
 
