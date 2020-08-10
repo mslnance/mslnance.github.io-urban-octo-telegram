@@ -3,8 +3,8 @@
 ## Table of Contents
 
 + [Description](#desc)
-* [Overview](#overview)
-* [Requirements](#requirements)
+    * [Overview](#overview)
+    * [Requirements](#requirements)
 + [Screenshots](#screenshots)
 + [Link to Deployed Application](#ltda)
 
