@@ -18,7 +18,7 @@ Provide a codebase that follows accessibility standards so that Horiseon's site 
 
 ## Screenshots
 ![Screenshot 1](/assets/images/Screenshot1.JPG?raw=true "Screenshot 1")
-![Screenshot 2](/assets/images/Screenshot1.JPG?raw=true "Screenshot 2")
+![Screenshot 2](/assets/images/Screenshot2.JPG?raw=true "Screenshot 2")
 
 ## Link to URL
 https://mslnance.github.io/mslnance.github.io-urban-octo-telegram/
